@@ -1,5 +1,4 @@
-
-body{
+body {
   margin: 0;
 }
 h1 {
@@ -8,90 +7,89 @@ h1 {
   font-size: 120px;
   color: white;
   margin-right: 0px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px ;
-line-height: 30px ;
-padding-bottom: 70px ;
-margin: 0;
-  }
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  padding-bottom: 70px;
+  margin: 0;
+}
 
-  h2 {
-    font-family: 'Lato', sans-serif;
-    color:#965AFC ;
-    width: 700;
-    font-size: 50px ;
-    padding-bottom: 100px ;
-    margin: 0;
-  }
-  ul {
-   margin-left: 0;
-   padding-left: 0;
-   font-family: 'Open Sans', sans-serif;
-   font-size: 18px ;
-  }
-    li {
-        list-style-type: none;
-        padding-bottom: 40px ;
-       }
+h2 {
+  font-family: "Lato", sans-serif;
+  color: #965afc;
+  width: 700;
+  font-size: 50px;
+  padding-bottom: 100px;
+  margin: 0;
+}
+ul {
+  margin-left: 0;
+  padding-left: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+li {
+  list-style-type: none;
+  padding-bottom: 40px;
+}
 
 .space {
-  padding-top: 70px ;
+  padding-top: 70px;
 }
-  .white-text {
-    color: white ;
-  }
+.white-text {
+  color: white;
+}
 .purple-text {
-  color: #965AFC ;
+  color: #965afc;
 }
 
-  .row-line{
-    display: flex;
-    justify-content: space-around;
-    height: 100%;
-    }
+.row-line {
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
 
-   #Projekt {
-margin: 0px ;
-padding-bottom: 0px ;
-  }
+#Projekt {
+  margin: 0px;
+  padding-bottom: 0px;
+}
 
 .purple-bg {
-  background-color:#965AFC ;
+  background-color: #965afc;
 }
 .purple-box {
-  background-color:#965AFC ;
-  border: solid 1px #965AFC ;
+  background-color: #965afc;
+  border: solid 1px #965afc;
   border-radius: 16px;
-width: 620px ;
-padding-left: 110px;
-padding-right: 259px;
-  width: 620px ;
-  height: 679px ;
+  width: 620px;
+  padding-left: 110px;
+  padding-right: 259px;
+  width: 620px;
+  height: 679px;
 }
 
 .light-box {
-  background-color: #F2EBFF ;
-  border: solid #965AFC 1px;
+  background-color: #f2ebff;
+  border: solid #965afc 1px;
   border-radius: 16px;
   margin-left: 80px;
-padding-left: 110px;
-padding-right: 120px;
-  width: 620px ;
-  height: 679px ;
-
+  padding-left: 110px;
+  padding-right: 120px;
+  width: 620px;
+  height: 679px;
 }
 
 .freeblock {
-  height: 100px ;
+  height: 100px;
 }
 
 section {
-  padding-top: 130px ;
-  padding-bottom: 130px ;
+  padding-top: 130px;
+  padding-bottom: 130px;
 }
 .video-container video {
   width: 100%;

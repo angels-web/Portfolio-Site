@@ -1,0 +1,106 @@
+
+body{
+  margin: 0;
+}
+h1 {
+  margin-top: 100px;
+
+  font-size: 120px;
+  color: white;
+  margin-right: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px ;
+line-height: 30px ;
+padding-bottom: 70px ;
+margin: 0;
+  }
+
+  h2 {
+    font-family: 'Lato', sans-serif;
+    color:#965AFC ;
+    width: 700;
+    font-size: 50px ;
+    padding-bottom: 100px ;
+    margin: 0;
+  }
+  ul {
+   margin-left: 0;
+   padding-left: 0;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 18px ;
+  }
+    li {
+        list-style-type: none;
+        padding-bottom: 40px ;
+       }
+
+.space {
+  padding-top: 70px ;
+}
+  .white-text {
+    color: white ;
+  }
+.purple-text {
+  color: #965AFC ;
+}
+
+  .row-line{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    }
+
+   #Projekt {
+margin: 0px ;
+padding-bottom: 0px ;
+  }
+
+.purple-bg {
+  background-color:#965AFC ;
+}
+.purple-box {
+  background-color:#965AFC ;
+  border: solid 1px #965AFC ;
+  border-radius: 16px;
+width: 620px ;
+padding-left: 110px;
+padding-right: 259px;
+  width: 620px ;
+  height: 679px ;
+}
+
+.light-box {
+  background-color: #F2EBFF ;
+  border: solid #965AFC 1px;
+  border-radius: 16px;
+  margin-left: 80px;
+padding-left: 110px;
+padding-right: 120px;
+  width: 620px ;
+  height: 679px ;
+
+}
+
+.freeblock {
+  height: 100px ;
+}
+
+section {
+  padding-top: 130px ;
+  padding-bottom: 130px ;
+}
+.video-container video {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  object-fit: cover;
+  z-index: 0;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}

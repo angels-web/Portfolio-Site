@@ -1,0 +1,55 @@
+header {
+  margin-bottom: 50px;
+}
+body {
+  background-color: #ECF3F4;
+  margin: 0;
+}
+section{
+  margin-bottom: 150px;
+
+}
+h1 {
+
+ font-family: 'Lato', sans-serif;
+ font-size: 50px;
+ color:#23356C ;
+  font-weight: 900;
+  margin: 0;
+text-align: center;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color:#23356C;
+  font-weight: 700;
+  font-size: 50px ;
+  padding-bottom: 60px ;
+  margin: 0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px ;
+   color: black;
+    font-weight:400;
+line-height: 30px ;
+padding-bottom: 70px ;
+margin: 0;
+  }
+
+.video{
+  width: 100%;
+}
+.video-container{
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.img-fluid{
+  width: 100%;
+
+}
+.spacer{
+  padding-bottom: 50px;
+}

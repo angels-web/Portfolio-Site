@@ -1,0 +1,135 @@
+Projekt
+
+HeyAround ist eine App, welche es den Usern erlaubt live
+und ortsspezifisch einen Chat zu erstellen. In diesem kann
+man eine Frage stellen, eine Meldung machen oder aber
+auch sich über eine Veranstaltung informieren.
+Ziel der App ist es schnell und einfach an aktuelle
+Informationen zu kommen. Das soll vor allem durch den
+aktiven Austausch mit anderen Usern ermöglicht werden.
+
+Design Process
+
+Interview
+
+Um zu erfahren welche aktuelle und ortspezifische
+Informationen Nutzer von Geschäften und Veranstaltungen wissen möchten haben wir mit Teilnehmern zwischen 19 bis 27 Jahren ein Qualitative Research durchgeführt.
+
+Wir wollten herausfinden wie Sie sich aktuelle Informationen beschaffen und auch welchen Schwierigkeiten Sie bei der täglichen Informationsbeschaffung begegnen.
+
+Probleme
+
+Keine aktuelle Informationen
+Unklare Öffnungszeiten, wenig
+Kapazität
+Foren sind beschränkt auf ein
+Gebiet, und die Suche nach
+einer Antwort dauert lang.
+Zu kommentieren ist komplex
+und dauert zu lang
+
+Insights
+
+Anzeigen sind für 24 Stunden verfügbar, die
+Informationen bzw. Antworten  (Kommentare) sind stets aktuell.
+Man kann Fragen themenunabhängig stellen.
+Nutzer in der nähe geben dir aktuelle Infos
+über den stand.
+Erstell eine Karte in drei Schritten.
+schnell und einfach auf Fragen
+anworten
+
+User Personas
+
+Sitemap
+
+Userflow
+
+Wireframes
+
+Entdecken Kommunizieren Erstellen
+
+Moodboard
+
+Visual Design
+Wir haben Gelb, Cyan und Grün für unsere Icons verwendet um eine fröhliche Stimmung und die Lust zum Entdecken hervorzurufen. Lila soll der App ein spielerisches, freundliches und fröhliches Image verleihen.
+Zum Lila, welchen wir zum akzentuieren von bestimmten Funktionen nutzen haben wir schwarz, grau und weiß für Text und Hintergrund gewählt um ein möglichst ruhiges Stimmungsbild zu schaffen.
+In Bezug auf die Typografie so haben wir uns für die Robot in den Schriftgraden 14px, 16px, und 20px sowie den Schriftschnitten Regular, Medium und Bold entschieden. Die Robot ist gut lesbar, neutral und eignen sich für Fließtext wie auch Überschriften.
+
+UI Components
+
+Testing
+Variation A Variation B Final result
+Wir haben unseren ersten Prototypen an potenziellen User getestet und haben einige Vorschläge für unser finales Design übernomme
+
+LOST
+PROJEKT
+
+Soziale Netzwerke sind jetzt ein sehr wichtiger Teil unseres
+Leben geworden. Mit dem Aufkommen von Instagram wurden Inhalte überwiegend visuell. Wir nutzen solche Plattformen wie Instagram und Pinterest zur Inspiration.
+Oft verirren wir uns im Dschungel der endlosen Posts und wir können uns nicht mehr dran erinnern, was unsere Hauptaufgabe war.
+Nach einer langen Zeit in sozialen Netzwerken scheint es uns bereits, dass alle unsere Ideen nicht so gut sind und wir niemals den gleichen Erfolg erzielen werden.
+
+Visuelles Konzept
+
+Für meine visuelles Konzept dienen Emoji als Inspirationsquelle, da die in Sozial Media zur Bewertung oft eingesetzt werden. Die Emojis werden abstrakt dargestellt,
+die Grundformen kann man noch erkennen, aber gleichzeitig sind sie mehr oder weniger verzerrt. Das was für uns bekannt ist ,kommt fremd an.
+
+REGIOFAIR
+
+Interview Insights zum Thema Online Shopping
+
+User Personas
+
+Probleme
+große Konzernen
+Quatitätsgarantie
+Lange Versandzeiten
+Nachhaltigkeit bei Transport
+
+
+Lösungsansätze
+Abholungsmöglichkeit
+Vergleichsmöglichkeit
+Support von lokalen Kleinhandeln
+Übersicht über Produkte in  Nähe
+
+Screens
+
+Wireframes
+
+Design
+
+Prototyp
+
+
+DISCONNECTED
+
+Inhaltliches Konzept
+
+In der Zeit der Digitalisierung sind wir alle mit einander immer vernetzt. Aber wir dürfen nicht über unsere Freunde und Familie vergessen, die im realen Leben mit uns sind.. In diese Animation möchte ich den Kontrast zwischen den beiden Welten darstellen.
+
+Visuelles Konzept
+
+Die Animation beginnt mit einer Stadtansicht. Die Stadt ist in einer warmen monotonen Palette. Emojis und Likes fliegen aus den Fenstern heraus. Man hört die Geräusche der Stadt und die Stimmen der Menschen. Die Kamera zoomt auf das Fenster im Haus. In einem Wohnzimmer sitzt eine Familie (Mutter, Vater, Sohn und Tochter), jeder hat ein Gadget in der Hand. Wohnzimmer in einer kühlen monotonen Palette. Keiner redet,
+man hört nur die Geräusche der Tastatur.
+
+
+GALERY
+<img class="img" src="img/angelina_weber_stadt_01.png" alt="">
+<img class="img" src="img/angelina_weber_stadt_02.png" alt="">
+<img class="img" src="img/angelina_weber_stadt_03.png" alt="">
+<img class="img" src="img/angelina_weber_stadt_04.png" alt="">
+
+<img class="img" src="img/Angelina_weber_gloves.png" alt="">
+<img class="img" src="img/Angelina_weber_Lucky.png" alt="">
+<img class="img" src="img/angelina_weber_Mein_Raum.png" alt="">
+<img class="img" src="img/Angelina_weber_objects.png" alt="">
+<img class="img" src="img/Angelina_weber_pink_aesthetic.png" alt="">
+<img class="img" src="img/Angelina_weber_Snowman.png" alt="">
+<img class="img" src="img/Angelina_weber_time.png" alt="">
+
+<img class="img" src="img/Angelina_weber_field.png" alt="">
+<img class="img" src="img/Angelina_weber_toaster_serie.png" alt="">
+<img class="img" src="img/weber_angelina_ich.png" alt="">
+<img class="img" src="img/weber_Weber_Angelina_Sonntag_Momente_01.png" alt="">

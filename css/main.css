@@ -13,25 +13,51 @@ header {
   left: 0;
   object-fit: cover;
 }
+li a {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 0 65px 0 40px;
+  text-decoration: none;
+  text-align: center;
+
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  float: right;
+  font-family: 'Furore', sans-serif;
+  font-size: 40px;
+  padding-top: 5px;
+  
+
+}
+.nav-container{
+background-color: black;
+height: 60px;
+width: 100vw;
+position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
 body {
   background-color: #efff0c;
 }
-section.container {
-  padding: 150px 0 150px 0;
-}
 
-.bg-color {
-  background-color: black;
-}
+
 .container {
-  left: 0;
+  right: 0;
   height: 100%;
   width: 65vw;
-  padding: 150px 150px 150px 150px;
+  padding: 140px 140px 140px 140px;
+  margin: 0;
+  background-color: black;
 }
 .img {
   width: 100%;
-
   filter: grayscale(100);
   transition: 0.2s;
 }
@@ -48,8 +74,8 @@ h1 {
   font-weight: 900;
   margin: 0;
   text-align: left;
-  padding-top: 150px;
-  padding-left: 150px;
+  padding-top: 140px;
+  padding-left: 140px;
 }
 
 h2 {
@@ -58,11 +84,11 @@ h2 {
   color: black;
   margin: 0;
   text-align: left;
-  padding-top: 100px;
-  padding-left: 150px;
+  padding-top: 110px;
+  padding-left: 140px;
 }
 .button {
-  margin-top: 357px;
+ 
   width: 90px;
 }
 
@@ -78,4 +104,19 @@ h2 {
 .button.active,
 .img.active {
   opacity: 0.3;
+}
+.container-fluid{
+  padding: 0;
+}
+#hey-around-array{
+  margin-top: 350px;
+}
+#lost-array{
+  margin-top:280px;
+}
+#regiofair-array{
+  margin-top:280px;
+}
+#disconnected-array{
+  margin-top:355px;
 }

@@ -17,7 +17,7 @@ li a {
   display: inline;
   color: white;
   text-align: center;
-  padding: 0 65px 0 40px;
+  padding: 5px 65px 0px 40px;
   text-decoration: none;
   text-align: center;
 
@@ -30,7 +30,6 @@ ul {
   float: right;
   font-family: 'Furore', sans-serif;
   font-size: 40px;
-  padding-top: 5px;
   
 
 }
@@ -120,3 +119,4 @@ h2 {
 #disconnected-array{
   margin-top:355px;
 }
+

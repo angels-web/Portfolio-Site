@@ -21,6 +21,7 @@ function effectsOffHover(e){
 }
 
 /* LOST*/
+
 array = document.getElementById("lost-array");
 image = document.getElementById("lost-image");
 

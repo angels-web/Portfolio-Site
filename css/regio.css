@@ -1,10 +1,54 @@
-body {
-  background-color: #1d5a65;
+body,header {
+  background-color:#edf7f9;
   margin: 0;
 }
-/*background-color: #1D5A65;#EDF7F9*/
+/*NAV*/
+
+.navbar{
+  width: 100%;
+  height: 70px;
+  top:0;
+  z-index: 1;
+  background-color:#1d5a65;
+  ; 
+  padding: 0; 
+  position: fixed;
+  overflow: hidden;
+ 
+}
+
+.nav-menu{
+  list-style: none;
+  top: 0;
+  margin: 0;
+  padding:0;
+  display: inline;
+ height: inherit;
+}
+
+.nav {
+
+  float: right;
+  padding: 14px 140px 0px 0px;
+}
+.logo{
+  float:left;
+  padding: 15px 0px 0px 140px;
+}
+a{
+ text-align: center;
+  font-family: 'Furore', sans-serif;
+  font-size: 40px;
+  color: #ffffff;
+  text-decoration: none;
+
+}
+/*NAV*/
 .light {
   background-color: #edf7f9;
+}
+.dark{
+  background-color: #1d5a65;
 }
 h1 {
   position: absolute;
@@ -26,8 +70,6 @@ h2 {
   margin: 0;
 }
 
-.bg-dark {
-}
 .spacer {
   padding-top: 150px;
   padding-bottom: 150px;
@@ -43,9 +85,7 @@ p {
   line-height: 30px;
   padding-bottom: 50px;
 }
-.top {
-  top: 0;
-}
+
 
 .pic {
   justify-content: space-between;
@@ -100,4 +140,26 @@ li {
 }
 .container-fluid {
   padding: 0 100px 0 100px;
+}
+/*BACK BUTTON*/
+.back-button{
+
+  text-decoration: none;
+  color: #1d5a65;
+  padding: 30px;
+  border: 2px solid  #1d5a65;
+  ;
+  text-align: center;
+}
+.button-center{
+  text-align: center;
+  margin-top: 100xp;
+  margin-bottom: 150px;
+}
+
+.back-button:hover{
+color: #ffffff;
+background-color: #1d5a65;
+;
+
 }

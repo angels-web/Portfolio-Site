@@ -10,7 +10,6 @@ body,header {
   top:0;
   z-index: 1;
   background-color:#1d5a65;
-  ; 
   padding: 0; 
   position: fixed;
   overflow: hidden;
@@ -38,7 +37,7 @@ body,header {
 a{
  text-align: center;
   font-family: 'Furore', sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   color: #ffffff;
   text-decoration: none;
 
@@ -163,3 +162,24 @@ background-color: #1d5a65;
 ;
 
 }
+/*FOOTER*/
+footer{
+  background-color: rgba(0, 0, 0, 0.075);
+ 
+ }
+ 
+ ul.footer-text {
+   list-style: none;
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+   margin: 0;
+   padding: 56px 140px 0 140px;
+   height: 130px;
+ }
+ .footer-text li{
+ 
+   font-family: "Lato", sans-serif;
+   font-size: 16px;
+   color: rgb(48, 48, 48);
+ }

@@ -39,7 +39,7 @@ body {
   a{
    text-align: center;
     font-family: 'Furore', sans-serif;
-    font-size: 40px;
+    font-size: 36px;
     color: #ffffff;
     text-decoration: none;
   
@@ -116,4 +116,26 @@ p {
   color: #ffffff;
   background-color: #A4CACF;
 
+}
+
+/*FOOTER*/
+footer{
+ background-color: rgba(0, 0, 0, 0.075);
+
+}
+
+ul.footer-text {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0;
+  padding: 56px 140px 0 140px;
+  height: 130px;
+}
+.footer-text li{
+
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: rgb(48, 48, 48);
 }

@@ -1,45 +1,42 @@
-body ,header {
+body,
+header {
   margin: 0;
 }
 
-
-.navbar{
+.navbar {
   width: 100%;
   height: 70px;
-  top:0;
+  top: 0;
   z-index: 1;
-  background-color: #C2A7F2; 
-  padding: 0; 
+  background-color: #c2a7f2;
+  padding: 0;
   position: fixed;
   overflow: hidden;
- 
 }
 
-.nav-menu{
+.nav-menu {
   list-style: none;
   top: 0;
   margin: 0;
-  padding:0;
+  padding: 0;
   display: inline;
- height: inherit;
+  height: inherit;
 }
 
 .nav {
-
   float: right;
   padding: 8px 140px 0px 0px;
 }
-.logo{
-  float:left;
+.logo {
+  float: left;
   padding: 8px 0px 0px 140px;
 }
-a{
- text-align: center;
-  font-family: 'Furore', sans-serif;
+a {
+  text-align: center;
+  font-family: "Furore", sans-serif;
   font-size: 36px;
   color: #ffff;
   text-decoration: none;
-
 }
 
 h1 {
@@ -67,7 +64,7 @@ h2 {
   padding-bottom: 100px;
   margin: 0;
 }
-h3{
+h3 {
   font-family: "Lato", sans-serif;
   text-align: center;
 }
@@ -111,8 +108,6 @@ li {
   border: solid 1px #965afc;
   border-radius: 16px;
   width: 620px;
-  padding-left: 110px;
-  padding-right: 259px;
   width: 620px;
   height: 679px;
 }
@@ -146,56 +141,52 @@ section {
 .img-fluid {
   max-width: 100%;
   height: auto;
-  margin:0;
-  padding:0;
-}
-.col{
-  padding:0;
-margin: 0;
-}
-.img{
+  margin: 0;
   padding: 0;
-  margin:0;
+}
+.col {
+  padding: 0;
+  margin: 0;
+}
+.img {
+  padding: 0;
+  margin: 0;
 }
 /*BACK BUTTON*/
-.back-button{
-
+.back-button {
   text-decoration: none;
-  color: #d5bcff;;
+  color: #d5bcff;
   padding: 30px;
-  border: 2px solid #d5bcff;;
+  border: 2px solid #d5bcff;
   text-align: center;
 }
-.button-center{
+.button-center {
   text-align: center;
   margin-top: 100xp;
   margin-bottom: 150px;
 }
 
-.back-button:hover{
-color: #ffffff;
-background-color: #C2A7F2;;
-
+.back-button:hover {
+  color: #ffffff;
+  background-color: #c2a7f2;
 }
 
 /*FOOTER*/
-footer{
-  background-color: #8C5ADF;
- 
- }
- 
- ul.footer-text {
-   list-style: none;
-   display: flex;
-   width: 100%;
-   justify-content: space-between;
-   margin: 0;
-   padding: 56px 140px 0 140px;
-   height: 130px;
- }
- .footer-text li{
- 
-   font-family: "Lato", sans-serif;
-   font-size: 16px;
-   color: rgb(243, 243, 243);
- }
+footer {
+  background-color: #8c5adf;
+}
+
+ul.footer-text {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0;
+  padding: 56px 140px 0 140px;
+  height: 130px;
+}
+.footer-text li {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: rgb(243, 243, 243);
+}

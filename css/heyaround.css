@@ -3,34 +3,6 @@ header {
   margin: 0;
 }
 
-.navbar {
-  width: 100%;
-  height: 70px;
-  top: 0;
-  z-index: 1;
-  background-color: #c2a7f2;
-  padding: 0;
-  position: fixed;
-  overflow: hidden;
-}
-
-.nav-menu {
-  list-style: none;
-  top: 0;
-  margin: 0;
-  padding: 0;
-  display: inline;
-  height: inherit;
-}
-
-.nav {
-  float: right;
-  padding: 8px 140px 0px 0px;
-}
-.logo {
-  float: left;
-  padding: 8px 0px 0px 140px;
-}
 a {
   text-align: center;
   font-family: "Furore", sans-serif;
@@ -68,13 +40,13 @@ h3 {
   font-family: "Lato", sans-serif;
   text-align: center;
 }
-ul {
+.purple-box .light-box ul {
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
   font-size: 18px;
 }
-li {
+.purple-box .light-box li {
   list-style-type: none;
   padding-bottom: 40px;
 }
@@ -103,24 +75,17 @@ li {
 .purple-bg {
   background-color: #965afc;
 }
+
 .purple-box {
   background-color: #965afc;
   border: solid 1px #965afc;
   border-radius: 16px;
-  width: 620px;
-  width: 620px;
-  height: 679px;
 }
 
 .light-box {
   background-color: #f2ebff;
   border: solid #965afc 1px;
   border-radius: 16px;
-  margin-left: 80px;
-  padding-left: 110px;
-  padding-right: 120px;
-  width: 620px;
-  height: 679px;
 }
 
 .freeblock {
@@ -176,7 +141,7 @@ footer {
   background-color: #8c5adf;
 }
 
-ul.footer-text {
+.footer-text ul {
   list-style: none;
   display: flex;
   width: 100%;

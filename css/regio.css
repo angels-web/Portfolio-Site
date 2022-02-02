@@ -1,52 +1,23 @@
-body,header {
-  background-color:#edf7f9;
+body,
+header {
+  background-color: #edf7f9;
   margin: 0;
 }
 /*NAV*/
 
-.navbar{
-  width: 100%;
-  height: 70px;
-  top:0;
-  z-index: 1;
-  background-color:#1d5a65;
-  padding: 0; 
-  position: fixed;
-  overflow: hidden;
- 
+:root {
+  --menu-bg-color: black;
+  --menu-text-color: #efff0c;
+  --menu-text-hover-color: white;
+  --menu-text-hover-stroke-color: white;
+  --menu-text-hover-stroke-width: 0px;
 }
 
-.nav-menu{
-  list-style: none;
-  top: 0;
-  margin: 0;
-  padding:0;
-  display: inline;
- height: inherit;
-}
-
-.nav {
-
-  float: right;
-  padding: 14px 140px 0px 0px;
-}
-.logo{
-  float:left;
-  padding: 15px 0px 0px 140px;
-}
-a{
- text-align: center;
-  font-family: 'Furore', sans-serif;
-  font-size: 36px;
-  color: #ffffff;
-  text-decoration: none;
-
-}
 /*NAV*/
 .light {
   background-color: #edf7f9;
 }
-.dark{
+.dark {
   background-color: #1d5a65;
 }
 h1 {
@@ -84,7 +55,6 @@ p {
   line-height: 30px;
   padding-bottom: 50px;
 }
-
 
 .pic {
   justify-content: space-between;
@@ -141,45 +111,39 @@ li {
   padding: 0 100px 0 100px;
 }
 /*BACK BUTTON*/
-.back-button{
-
+.back-button {
   text-decoration: none;
   color: #1d5a65;
   padding: 30px;
-  border: 2px solid  #1d5a65;
-  ;
+  border: 2px solid #1d5a65;
   text-align: center;
 }
-.button-center{
+.button-center {
   text-align: center;
   margin-top: 100xp;
   margin-bottom: 150px;
 }
 
-.back-button:hover{
-color: #ffffff;
-background-color: #1d5a65;
-;
-
+.back-button:hover {
+  color: #ffffff;
+  background-color: #1d5a65;
 }
 /*FOOTER*/
-footer{
+footer {
   background-color: rgba(0, 0, 0, 0.075);
- 
- }
- 
- ul.footer-text {
-   list-style: none;
-   display: flex;
-   width: 100%;
-   justify-content: space-between;
-   margin: 0;
-   padding: 56px 140px 0 140px;
-   height: 130px;
- }
- .footer-text li{
- 
-   font-family: "Lato", sans-serif;
-   font-size: 16px;
-   color: rgb(48, 48, 48);
- }
+}
+
+.footer-text ul {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0;
+  padding: 56px 140px 0 140px;
+  height: 130px;
+}
+.footer-text li {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: rgb(48, 48, 48);
+}

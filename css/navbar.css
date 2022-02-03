@@ -1,0 +1,112 @@
+/* X-Small	None	<576px
+Small	sm	≥576px
+Medium	md	≥768px
+Large	lg	≥992px
+Extra large	xl	≥1200px
+Extra extra large	xxl	≥1400px */
+
+/* Добавь этот кусок кода в свой стиль */
+/* :root {
+  --menu-bg-color: black;
+  --menu-text-color: white;
+  --menu-text-hover-color: black;
+  --menu-text-hover-stroke-color: white;
+  --menu-text-hover-stroke-width: 2px;
+} */
+
+.logo {
+    float: left;
+    height: 100%;
+  }
+  
+  .menu {
+    width: 100%; 
+    top: 0;
+    z-index: 3;
+    background-color: var(--menu-bg-color);
+    padding: 0.5rem 5rem;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    position: fixed; 
+    justify-content: space-between;
+ 
+  }
+  
+  .menu-links {
+    list-style: none;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    height: inherit;
+    width: 100%;
+    justify-content: space-around;
+  }
+  
+  .nav-menu {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu a {
+    text-align: center;
+    font-family: "Furore", sans-serif;
+    font-size: 36px;
+    color: var(--menu-text-color);
+    text-decoration: none;
+  }
+  
+  .nav-item {
+    margin-left: 6rem;
+    display: block;
+  }
+  
+  .menu a:hover {
+    -webkit-text-fill-color: var(--menu-text-hover-color);
+    -webkit-text-stroke-color: var(--menu-text-hover-stroke-color);
+    -webkit-text-stroke-width: var(--menu-text-hover-stroke-width);
+    text-decoration: none;
+  }
+  
+  @media all and (max-width: 576px) {
+  }
+  
+  @media (max-width: 768px) {
+  }
+  
+  @media (max-width: 992px) {
+    .menu {
+      justify-content: center;
+      align-items: flex-start;
+      padding: 0px;
+    }
+  
+    .nav-menu {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .logo {
+      margin-left: 1rem;
+    }
+  
+    .nav-item {
+      margin-left: 0rem;
+      width: 100%;
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+  
+    .nav-item a {
+      text-align: center;
+      padding-left: 1rem;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .menu {
+      flex-direction: column;
+    }
+  }

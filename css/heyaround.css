@@ -1,53 +1,11 @@
 
-
-.navbar {
-  width: 100%;
-  min-height: 70px;
-  top: 0;
-  z-index: 1;
-  background-color: #c2a7f2;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  position: fixed;
-  overflow: hidden;
+:root {
+  --menu-bg-color: #c2a7f2;
+  --menu-text-color: white;
+  --menu-text-hover-color: #965afc;;
+  --menu-text-hover-stroke-color: white;
+  --menu-text-hover-stroke-width: 0px;
 }
-
-.nav-menu {
-  list-style: none;
-  top: 0;
-  margin: 0;
-  padding: 0;
-  height: inherit;
-  margin-right: 5rem;
-}
-
-a {
-  text-align: center;
-  font-family: "Furore", sans-serif;
-  font-size: 36px;
-  color: #ffffff;
-  text-decoration: none;
-}
-.nav-item {
-  float: right;
-  margin-left: 6rem;
-}
-
-.nav-menu .nav-item {
-  display: inline-block;
-}
-
-.navbar a:hover {
-  -webkit-text-fill-color: #965afc;
-  text-decoration: none;
-}
-
-.logo {
-  margin-left: 5rem;
-  float: left;
-}
-
 
 
 body,
@@ -62,6 +20,7 @@ h1 {
   color: white;
   margin-right: 0px;
   font-family: "Roboto", sans-serif;
+  font-weight: 900;
 }
 
 p {
@@ -171,6 +130,12 @@ section {
   margin: 0;
 }
 /*BACK BUTTON*/
+a {
+  text-align: center;
+  font-family: "Furore", sans-serif;
+  font-size: 36px;
+  text-decoration: none;
+}
 .back-button {
   text-decoration: none;
   color: #d5bcff;
@@ -194,7 +159,7 @@ footer {
   background-color: #8c5adf;
 }
 
-ul.footer-text {
+.footer-text   {
   list-style: none;
   display: flex;
   width: 100%;
